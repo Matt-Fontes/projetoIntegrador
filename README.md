@@ -2,6 +2,6 @@
 
 ### Membros
 - Matheus Fontes Pessoa de Mello - matt.fontes@hotmail.com
-- Pedro Acácio Rodrigues - pedrorodrigues@alunos.utfpr.edu.br
+- Pedro Acácio Rodrigues - pedrorodrigues.2019@alunos.utfpr.edu.br
 - Pedro Henrique Bortolucci Klayn - pedroklayn@alunos.utfpr.edu.br
 - Ryan Lazaretti Ramos - ryan.lramos@hotmail.com
